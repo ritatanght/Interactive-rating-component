@@ -19,7 +19,7 @@ User would pick a rating at the rating state, and the picked rating will be disp
 ### Links
 
 - Solution URL: [Here](https://github.com/ritatanght/Interactive-rating-component)
-- Live Site URL: [Here](https://frontendmentor-interactive-rating.netlify.app/)
+- Live Site URL: [Here](https://ritatanght.github.io/Interactive-rating-component/)
 
 ### Built with
 
